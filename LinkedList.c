@@ -1,7 +1,7 @@
 
 /* Program To Perform All Operations On A Singly-Linked List!
    
-   This Code Was Written By Syed Muhammed Umair Of Presidency University Bangalore . 
+   This Code Was Written By Syed Muhammed Umair Of Presidency University Bangalore. 
    If Anyone Requires Help In Interpreting The Code, I Would Be Pleased To Help!
    You Can Get In Touch With Me at https://github.com/umairrsyedd */
 
