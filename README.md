@@ -12,4 +12,4 @@ This Program Consists Of The Following Operations Performed On A Singly Linked L
 8) Search For A Given Value In The Linked List
 9) Reverse The Linked List
 
-I Have Written This Code In The Simplest Possible Way, And The Code Is Written In C Programming Language, Which Is A Very Basic Language And There Shouldnt Be Any Misinterpretations, However If There Seems To Be Any Doubt In The Concept Or The Code, Feel Free To Contact Me On My Linkedin Or You Could Write To Me at umairrsyedd.study@gmail.com.
+I Have Written This Code In The Simplest Possible Way, And The Code Is Written In C Programming Language, Which Is A Very Basic Language And There Shouldnt Be Any Misinterpretations, However If There Seems To Be Any Doubt In The Concept Or The Code, Feel Free To Contact Me On My Linkedin Or You Could Write To Me at umair_developer@outlook.com
